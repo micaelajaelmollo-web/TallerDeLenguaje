@@ -1,0 +1,42 @@
+
+<catalogo>
+
+
+<destino id="01">
+    <pais>
+        Argentina
+    </pais>
+    <nombre>
+        Cordoba
+    </nombre>
+    <PrecioEnUsd>
+        50
+    </PrecioEnUsd>
+    <duracion>
+        6 dias
+    </duracion>
+    <descripcion>
+        Viaje a las sierras
+    </descripcion>
+</destino>
+
+
+<destino>
+    <pais>
+        Brasil
+    </pais>
+    <nombre>
+        Rio de Janeiro
+    </nombre>
+    <PrecioEnUsd>
+        100
+    </PrecioEnUsd>
+    <duracion>
+        6 dias
+    </duracion>
+    <descripcion>
+        Playa
+    </descripcion>
+</destino>
+
+</catalogo>

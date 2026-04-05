@@ -1,0 +1,50 @@
+{
+  "consultorio": {
+    "turnos_medicos": [
+      {
+        "numero_turno": 1,
+        "medico": {
+          "nombre": "Juan Perez",
+          "especialidad": "cardiología"
+        },
+        "paciente": {
+          "nombre": "Ana Gomez",
+          "dni" : "5643541335"
+        },
+        
+        "hora": "10:00",
+        "estado": "pendiente",
+        "observaciones" : ""
+      },
+      {
+        "numero_turno": 2,
+        "medico": {
+          "nombre": "Laura Martínez",
+          "especialidad": "dermatología"
+        },
+        "paciente": {
+          "nombre": "Carlos Lopez",
+          "dni" : "13535153"
+        },
+        
+        "hora": "11:30",
+        "estado": "confirmado",
+        "observaciones" : ""
+      },
+      {
+        "numero_turno": 3,
+        "medico": {
+          "nombre": "Martin Rodriguez",
+          "especialidad": "ediatría"
+        },
+        "paciente": {
+          "nombre": "Sofia Fernandez",
+          "dni" : "13541341"
+        },
+        "hora": "09:15",
+        "estado": "cancelado",
+        "observaciones" : ""
+      }
+    ]
+  }
+}
